@@ -1,0 +1,8 @@
+service/Browser.class
+pageObjects/AcountsPageObjects.class
+testCases/BookATourTest.class
+pageObjects/MainPageObjects.class
+pageObjects/ToursPageObject.class
+pageObjects/HomePageObjects.class
+pageObjects/LoginPageObjects.class
+testCases/LoginTest.class
